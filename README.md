@@ -1,11 +1,13 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Matīss!
 
 ---
-Hard-working, self-motivated, and inspired frontend developer, who
-enjoys the workflow of coding. Bringing forth a motivated attitude and
+Hard-working, self-motivated, and inspired frontend developer
+===
+I enjoys the workflow of coding. Bringing forth a motivated attitude and
 a variety of skills. Able to effectively self-manage, as well as 
 collaborate as part of a productive team. Always ready to develop
 and gain new knowledge
+
 ---
 🧰 Toolbox
 
