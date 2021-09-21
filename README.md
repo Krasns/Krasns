@@ -1,4 +1,4 @@
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Matīss Ceplītis!
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Matīss!
 
 ---
 Hard-working, self-motivated, and inspired frontend developer, who
@@ -9,7 +9,8 @@ and gain new knowledge
 ---
 🧰 Toolbox
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" alt="dotnetcore logo" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="git logo" width="50" height="50"/>  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="git logo" width="50" height="50"/>  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="git logo" width="50" height="50"/>  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="git logo" width="50" height="50"/>  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="git logo" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="git logo" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" alt="dotnetcore logo" width="50" height="50"/> <img src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/csharp/csharp-original.svg" alt="dotnetcore logo" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="git logo" width="50" height="50"/>  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="git logo" width="50" height="50"/>  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="git logo" width="50" height="50"/>  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="git logo" width="50" height="50"/>  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="git logo" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="git logo" width="50" height="50"/>
+---
 <!--
 **Krasns/Krasns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
