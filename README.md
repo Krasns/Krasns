@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Matīss Ceplītis!
+<p align=”center”>
+<a href=”LinkedIn profile URL”>
+<img src=”https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue">
+</a>
+</p>
 
 <!--
 **Krasns/Krasns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
