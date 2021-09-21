@@ -1,10 +1,15 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Matīss Ceplītis!
-<p align=”center”>
-<a href=”LinkedIn profile URL”>
-<img src=”https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue">
-</a>
-</p>
 
+---
+Hard-working, self-motivated, and inspired frontend developer, who
+enjoys the workflow of coding. Bringing forth a motivated attitude and
+a variety of skills. Able to effectively self-manage, as well as 
+collaborate as part of a productive team. Always ready to develop
+and gain new knowledge
+---
+🧰 Toolbox
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" alt="dotnetcore logo" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="git logo" width="50" height="50"/>  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="git logo" width="50" height="50"/>  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="git logo" width="50" height="50"/>  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="git logo" width="50" height="50"/>  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="git logo" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="git logo" width="50" height="50"/>
 <!--
 **Krasns/Krasns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
